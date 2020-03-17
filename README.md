@@ -1,4 +1,4 @@
-# SE 115 - Gas Station Simulation
+# SE 116 - Gas Station Simulation
 
 ### Project Detail
 
